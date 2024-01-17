@@ -1,2 +1,2 @@
-# logo
+# Logo
 The logo of CuerdOS.
