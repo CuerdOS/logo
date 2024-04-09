@@ -1,5 +1,5 @@
 # CuerdOS Logo
 
-The logo of CuerdOS.
+The CuerdOS logo.
 
 Attribution: CuerdOS Dev Team.
